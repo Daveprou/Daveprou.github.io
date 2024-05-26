@@ -44,7 +44,3 @@ I would like to thank my professors, classmates, and family for their support an
 
 Feel free to reach out to me via email at aireldave.pasco.prou@gmail.com for any questions or feedback.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
